@@ -1,0 +1,32 @@
+{
+  "id": "concepts/basic-concepts/cabinets-concepts",
+  "title": "Cabinets",
+  "description": "The basic concepts behind Cabinets.",
+  "source": "@site/docs/concepts/basic-concepts/cabinets-concepts.md",
+  "sourceDirName": "concepts/basic-concepts",
+  "slug": "/concepts/basic-concepts/cabinets-concepts",
+  "permalink": "/docs/concepts/basic-concepts/cabinets-concepts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Cabinets",
+    "id": "cabinets-concepts",
+    "title": "Cabinets",
+    "description": "The basic concepts behind Cabinets.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

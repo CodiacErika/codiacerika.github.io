@@ -1,0 +1,32 @@
+{
+  "id": "guides/logging/elk-stack-guide",
+  "title": "Integrate Codiac With Your ELK Stack",
+  "description": "A guide to integrate Codiac with your existing ELK stack.",
+  "source": "@site/docs/guides/logging/elk-stack-guide.md",
+  "sourceDirName": "guides/logging",
+  "slug": "/guides/logging/elk-stack-guide",
+  "permalink": "/docs/guides/logging/elk-stack-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "ELK Stack",
+    "id": "elk-stack-guide",
+    "title": "Integrate Codiac With Your ELK Stack",
+    "description": "A guide to integrate Codiac with your existing ELK stack.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

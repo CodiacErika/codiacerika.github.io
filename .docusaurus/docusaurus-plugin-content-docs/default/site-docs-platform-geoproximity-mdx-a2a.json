@@ -1,0 +1,32 @@
+{
+  "id": "platform/geoproximity",
+  "title": "Geoproximity",
+  "description": "Guides for using geoproximity with the Codiac platform.",
+  "source": "@site/docs/platform/geoproximity.mdx",
+  "sourceDirName": "platform",
+  "slug": "/platform/geoproximity",
+  "permalink": "/docs/platform/geoproximity",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Geoproximity",
+    "id": "geoproximity",
+    "title": "Geoproximity",
+    "description": "Guides for using geoproximity with the Codiac platform.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

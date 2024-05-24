@@ -1,0 +1,32 @@
+{
+  "id": "guides/cicd/github-guide",
+  "title": "Integrate Codiac With GitHub CI/CD",
+  "description": "A guide to integrate Codiac with your GitHub CI/CD pipeline.",
+  "source": "@site/docs/guides/cicd/github-guide.md",
+  "sourceDirName": "guides/cicd",
+  "slug": "/guides/cicd/github-guide",
+  "permalink": "/docs/guides/cicd/github-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "GitHub",
+    "id": "github-guide",
+    "title": "Integrate Codiac With GitHub CI/CD",
+    "description": "A guide to integrate Codiac with your GitHub CI/CD pipeline.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "guides/security/cli-security-guide",
+  "title": "Security With the CLI",
+  "description": "A guide to securing the Codiac platform.",
+  "source": "@site/docs/guides/security/cli-security-guide.md",
+  "sourceDirName": "guides/security",
+  "slug": "/guides/security/cli-security-guide",
+  "permalink": "/docs/guides/security/cli-security-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "CLI",
+    "id": "cli-security-guide",
+    "title": "Security With the CLI",
+    "description": "A guide to securing the Codiac platform.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

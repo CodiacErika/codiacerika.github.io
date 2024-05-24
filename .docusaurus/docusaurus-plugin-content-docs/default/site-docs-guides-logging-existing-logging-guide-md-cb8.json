@@ -1,0 +1,32 @@
+{
+  "id": "guides/logging/existing-logging-guide",
+  "title": "Integrate Codiac With Your Existing Logging",
+  "description": "A guide to integrate Codiac with your existing logging.",
+  "source": "@site/docs/guides/logging/existing-logging-guide.md",
+  "sourceDirName": "guides/logging",
+  "slug": "/guides/logging/existing-logging-guide",
+  "permalink": "/docs/guides/logging/existing-logging-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Existing Logging",
+    "id": "existing-logging-guide",
+    "title": "Integrate Codiac With Your Existing Logging",
+    "description": "A guide to integrate Codiac with your existing logging.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

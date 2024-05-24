@@ -1,0 +1,32 @@
+{
+  "id": "guides/telemetry/existing-telemetry-guide",
+  "title": "Integrate Codiac With Your Existing Telemetry",
+  "description": "A guide to integrate Codiac with your existing telemetry.",
+  "source": "@site/docs/guides/telemetry/existing-telemetry-guide.md",
+  "sourceDirName": "guides/telemetry",
+  "slug": "/guides/telemetry/existing-telemetry-guide",
+  "permalink": "/docs/guides/telemetry/existing-telemetry-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Existing Telemetry",
+    "id": "existing-telemetry-guide",
+    "title": "Integrate Codiac With Your Existing Telemetry",
+    "description": "A guide to integrate Codiac with your existing telemetry.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "concepts/basic-concepts/assets-concepts",
+  "title": "Assets",
+  "description": "The basic concepts behind Assets.",
+  "source": "@site/docs/concepts/basic-concepts/assets-concepts.md",
+  "sourceDirName": "concepts/basic-concepts",
+  "slug": "/concepts/basic-concepts/assets-concepts",
+  "permalink": "/docs/concepts/basic-concepts/assets-concepts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Assets",
+    "id": "assets-concepts",
+    "title": "Assets",
+    "description": "The basic concepts behind Assets.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "concepts/advanced-concepts/cicd-concepts",
+  "title": "Use Codiac with any classic CI/CD platform",
+  "description": "How to integrate Codiac with any CI/CD platform.",
+  "source": "@site/docs/concepts/advanced-concepts/cicd-concepts.md",
+  "sourceDirName": "concepts/advanced-concepts",
+  "slug": "/concepts/advanced-concepts/cicd-concepts",
+  "permalink": "/docs/concepts/advanced-concepts/cicd-concepts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "CI/CD",
+    "id": "cicd-concepts",
+    "title": "Use Codiac with any classic CI/CD platform",
+    "description": "How to integrate Codiac with any CI/CD platform.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "platform/autoscalers",
+  "title": "Autoscalers",
+  "description": "Guides for using autoscalers with the Codiac platform.",
+  "source": "@site/docs/platform/autoscalers.mdx",
+  "sourceDirName": "platform",
+  "slug": "/platform/autoscalers",
+  "permalink": "/docs/platform/autoscalers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Autoscalers",
+    "id": "autoscalers",
+    "title": "Autoscalers",
+    "description": "Guides for using autoscalers with the Codiac platform.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

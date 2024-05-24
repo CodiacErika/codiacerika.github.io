@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://codiac.io/blog</id>
+    <title>Codiac Documentation Blog</title>
+    <updated>2022-10-04T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://codiac.io/blog"/>
+    <subtitle>Codiac Documentation Blog</subtitle>
+    <icon>https://codiac.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://codiac.io/blog/welcome</id>
+        <link href="https://codiac.io/blog/welcome"/>
+        <updated>2022-10-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're having a great time at devopsdays in Houston this week!]]></summary>
+        <content type="html"><![CDATA[<p>We're having a great time at <a href="https://devopsdays.org/events/2022-houston/welcome/" target="_blank" rel="noopener noreferrer">devopsdays</a> in Houston this week!</p>
+<p><a href="https://devopsdays.org/events/2022-houston/program/mark-freydl" target="_blank" rel="noopener noreferrer">Check out our workshop,</a> or visit our booth in the Startup Corner!</p>]]></content>
+        <author>
+            <name>Ben Ghazi</name>
+            <uri>https://github.com/codiacben</uri>
+        </author>
+        <category label="events" term="events"/>
+        <category label="hello" term="hello"/>
+        <category label="codiac" term="codiac"/>
+    </entry>
+</feed>

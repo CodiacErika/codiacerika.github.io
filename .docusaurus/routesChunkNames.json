@@ -1,0 +1,281 @@
+{
+  "/blog-b3e": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "24a50990"
+      }
+    ],
+    "__props": "53a3e6dc"
+  },
+  "/blog/archive-245": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "25003e4f"
+  },
+  "/blog/tags-4c4": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "41756ce8"
+  },
+  "/blog/tags/codiac-164": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "24a50990"
+      }
+    ],
+    "__props": "f11c8cde"
+  },
+  "/blog/tags/events-73f": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "24a50990"
+      }
+    ],
+    "__props": "c7341a67"
+  },
+  "/blog/tags/hello-879": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "24a50990"
+      }
+    ],
+    "__props": "9d2a5b67"
+  },
+  "/blog/welcome-c7f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d4f6087e"
+  },
+  "/helloMarkdown-966": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "3b693608"
+  },
+  "/helloReact-77a": {
+    "__comp": "06f8edbc",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/markdown-page-3d7": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/docs-517": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/docs-c2a": {
+    "__comp": "a7bd4aaa",
+    "__props": "7c110bd0"
+  },
+  "/docs/tags-fde": {
+    "__comp": "3720c009",
+    "__props": "5bfee675"
+  },
+  "/docs/tags/getting-started-1db": {
+    "__comp": "df203c0f",
+    "__props": "067cd1c7"
+  },
+  "/docs/tags/intro-208": {
+    "__comp": "df203c0f",
+    "__props": "8db5eb52"
+  },
+  "/docs-0e0": {
+    "__comp": "a94703ab"
+  },
+  "/docs/-56e": {
+    "__comp": "17896441",
+    "content": "c377a04b"
+  },
+  "/docs/concepts/advanced-concepts/blue-green-concepts-0cf": {
+    "__comp": "17896441",
+    "content": "bd1e60d3"
+  },
+  "/docs/concepts/advanced-concepts/cicd-concepts-66b": {
+    "__comp": "17896441",
+    "content": "8d250024"
+  },
+  "/docs/concepts/advanced-concepts/cluster-hopping-concepts-e52": {
+    "__comp": "17896441",
+    "content": "5f24105a"
+  },
+  "/docs/concepts/advanced-concepts/rbac-concepts-643": {
+    "__comp": "17896441",
+    "content": "f8473d0b"
+  },
+  "/docs/concepts/basic-concepts/assets-concepts-31d": {
+    "__comp": "17896441",
+    "content": "72e60f85"
+  },
+  "/docs/concepts/basic-concepts/cabinets-concepts-4b6": {
+    "__comp": "17896441",
+    "content": "955a3268"
+  },
+  "/docs/concepts/basic-concepts/clusters-concepts-888": {
+    "__comp": "17896441",
+    "content": "30cf4af1"
+  },
+  "/docs/concepts/basic-concepts/toolchain-reduction-concepts-f74": {
+    "__comp": "17896441",
+    "content": "62e23b7a"
+  },
+  "/docs/concepts/what-is-codiac-8df": {
+    "__comp": "17896441",
+    "content": "f15b5ff3"
+  },
+  "/docs/get-started/cicd-integration-fb1": {
+    "__comp": "17896441",
+    "content": "4537d68c"
+  },
+  "/docs/get-started/create-account-027": {
+    "__comp": "17896441",
+    "content": "629cc5af"
+  },
+  "/docs/get-started/credentials-ccc": {
+    "__comp": "17896441",
+    "content": "1582986a"
+  },
+  "/docs/get-started/install-cli-6d7": {
+    "__comp": "17896441",
+    "content": "be77772d"
+  },
+  "/docs/get-started/quickstart/deploy-10-microservices-quickstart-100": {
+    "__comp": "17896441",
+    "content": "cec7ea8c"
+  },
+  "/docs/get-started/quickstart/hello-world-quickstart-16f": {
+    "__comp": "17896441",
+    "content": "d83fae5e"
+  },
+  "/docs/guides/cicd/existing-cicd-guide-34d": {
+    "__comp": "17896441",
+    "content": "98e3674d"
+  },
+  "/docs/guides/cicd/github-guide-fe9": {
+    "__comp": "17896441",
+    "content": "14229840"
+  },
+  "/docs/guides/cicd/gitlab-guide-099": {
+    "__comp": "17896441",
+    "content": "5187be3f"
+  },
+  "/docs/guides/logging/datadog-guide-217": {
+    "__comp": "17896441",
+    "content": "3676818c"
+  },
+  "/docs/guides/logging/elk-stack-guide-575": {
+    "__comp": "17896441",
+    "content": "d747a35e"
+  },
+  "/docs/guides/logging/existing-logging-guide-202": {
+    "__comp": "17896441",
+    "content": "cb81898a"
+  },
+  "/docs/guides/manage/cli-config-guide-486": {
+    "__comp": "17896441",
+    "content": "7ac96bb9"
+  },
+  "/docs/guides/manage/configuration-management-guide-5e7": {
+    "__comp": "17896441",
+    "content": "c0052b50"
+  },
+  "/docs/guides/manage/move-deployments-guide-82a": {
+    "__comp": "17896441",
+    "content": "aa6d6399"
+  },
+  "/docs/guides/manage/recreate-cluster-guide-534": {
+    "__comp": "17896441",
+    "content": "a8007f75"
+  },
+  "/docs/guides/manage/rotate-tokens-guide-e76": {
+    "__comp": "17896441",
+    "content": "ab52b515"
+  },
+  "/docs/guides/manage/upgrade-cluster-version-guide-bac": {
+    "__comp": "17896441",
+    "content": "5bebc38b"
+  },
+  "/docs/guides/security/cli-security-guide-56b": {
+    "__comp": "17896441",
+    "content": "608b8ed2"
+  },
+  "/docs/guides/telemetry/existing-telemetry-guide-478": {
+    "__comp": "17896441",
+    "content": "70efbe88"
+  },
+  "/docs/guides/telemetry/prometheus-guide-505": {
+    "__comp": "17896441",
+    "content": "1edf95ba"
+  },
+  "/docs/platform/autoscalers-0e0": {
+    "__comp": "17896441",
+    "content": "1bfa4bf5"
+  },
+  "/docs/platform/file-stores-9c5": {
+    "__comp": "17896441",
+    "content": "de64cc4f"
+  },
+  "/docs/platform/geoproximity-ccc": {
+    "__comp": "17896441",
+    "content": "a2a13f42"
+  },
+  "/docs/platform/probes-4d1": {
+    "__comp": "17896441",
+    "content": "76fef6d4"
+  },
+  "/docs/reference/cli-commands-c51": {
+    "__comp": "17896441",
+    "content": "e7c06225"
+  },
+  "/docs/reference/glossary-fef": {
+    "__comp": "17896441",
+    "content": "846656e5"
+  },
+  "/-2e1": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

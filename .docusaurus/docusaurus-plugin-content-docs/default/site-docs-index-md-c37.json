@@ -1,0 +1,37 @@
+{
+  "id": "introduction",
+  "title": "Welcome to the Codiac Docs",
+  "description": "Documentation for the Codiac platform.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction",
+    "sidebar_label": "Introduction",
+    "title": "Welcome to the Codiac Docs",
+    "description": "Documentation for the Codiac platform.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "CLI Commands",
+    "permalink": "/docs/reference/cli-commands"
+  }
+}

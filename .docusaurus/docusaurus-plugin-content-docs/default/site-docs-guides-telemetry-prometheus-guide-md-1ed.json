@@ -1,0 +1,32 @@
+{
+  "id": "guides/telemetry/prometheus-guide",
+  "title": "Integrate Codiac with Prometheus",
+  "description": "Guides for using the Codiac platform.",
+  "source": "@site/docs/guides/telemetry/prometheus-guide.md",
+  "sourceDirName": "guides/telemetry",
+  "slug": "/guides/telemetry/prometheus-guide",
+  "permalink": "/docs/guides/telemetry/prometheus-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Prometheus",
+    "id": "prometheus-guide",
+    "title": "Integrate Codiac with Prometheus",
+    "description": "Guides for using the Codiac platform.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/blog/welcome",
+      "unlisted": false
+    }
+  ]
+}

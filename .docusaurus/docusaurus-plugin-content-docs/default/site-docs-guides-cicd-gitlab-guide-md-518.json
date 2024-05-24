@@ -1,0 +1,32 @@
+{
+  "id": "guides/cicd/gitlab-guide",
+  "title": "Integrate Codiac With GitLab CI/CD",
+  "description": "A guide to integrate Codiac with a GitLab CI/CD pipeline.",
+  "source": "@site/docs/guides/cicd/gitlab-guide.md",
+  "sourceDirName": "guides/cicd",
+  "slug": "/guides/cicd/gitlab-guide",
+  "permalink": "/docs/guides/cicd/gitlab-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Gitlab",
+    "id": "gitlab-guide",
+    "title": "Integrate Codiac With GitLab CI/CD",
+    "description": "A guide to integrate Codiac with a GitLab CI/CD pipeline.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

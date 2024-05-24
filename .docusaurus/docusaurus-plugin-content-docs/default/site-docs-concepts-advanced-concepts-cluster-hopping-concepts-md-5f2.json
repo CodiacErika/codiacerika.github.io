@@ -1,0 +1,32 @@
+{
+  "id": "concepts/advanced-concepts/cluster-hopping-concepts",
+  "title": "Cluster Hopping",
+  "description": "The basic concepts behind cluster hopping.",
+  "source": "@site/docs/concepts/advanced-concepts/cluster-hopping-concepts.md",
+  "sourceDirName": "concepts/advanced-concepts",
+  "slug": "/concepts/advanced-concepts/cluster-hopping-concepts",
+  "permalink": "/docs/concepts/advanced-concepts/cluster-hopping-concepts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Cluster Hopping",
+    "id": "cluster-hopping-concepts",
+    "title": "Cluster Hopping",
+    "description": "The basic concepts behind cluster hopping.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

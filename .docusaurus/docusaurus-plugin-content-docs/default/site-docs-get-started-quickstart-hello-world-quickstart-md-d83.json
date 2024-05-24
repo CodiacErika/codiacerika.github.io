@@ -1,0 +1,32 @@
+{
+  "id": "get-started/quickstart/hello-world-quickstart",
+  "title": "Hello World Quickstart",
+  "description": "Learn how to integrate Codiac with your existing CI/CD pipeline.",
+  "source": "@site/docs/get-started/quickstart/hello-world-quickstart.md",
+  "sourceDirName": "get-started/quickstart",
+  "slug": "/get-started/quickstart/hello-world-quickstart",
+  "permalink": "/docs/get-started/quickstart/hello-world-quickstart",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Hello World Quickstart",
+    "id": "hello-world-quickstart",
+    "title": "Hello World Quickstart",
+    "description": "Learn how to integrate Codiac with your existing CI/CD pipeline.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "platform/probes",
+  "title": "Probes",
+  "description": "Guides for using probes with the Codiac platform.",
+  "source": "@site/docs/platform/probes.mdx",
+  "sourceDirName": "platform",
+  "slug": "/platform/probes",
+  "permalink": "/docs/platform/probes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Probes",
+    "id": "probes",
+    "title": "Probes",
+    "description": "Guides for using probes with the Codiac platform.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

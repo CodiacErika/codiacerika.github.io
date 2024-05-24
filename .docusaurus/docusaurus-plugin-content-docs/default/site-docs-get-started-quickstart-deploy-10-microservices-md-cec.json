@@ -1,0 +1,32 @@
+{
+  "id": "get-started/quickstart/deploy-10-microservices-quickstart",
+  "title": "Deploy 10 Microservices Quickstart",
+  "description": "Learn how to integrate Codiac with your existing CI/CD pipeline.",
+  "source": "@site/docs/get-started/quickstart/deploy-10-microservices.md",
+  "sourceDirName": "get-started/quickstart",
+  "slug": "/get-started/quickstart/deploy-10-microservices-quickstart",
+  "permalink": "/docs/get-started/quickstart/deploy-10-microservices-quickstart",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Microservices Quickstart",
+    "id": "deploy-10-microservices-quickstart",
+    "title": "Deploy 10 Microservices Quickstart",
+    "description": "Learn how to integrate Codiac with your existing CI/CD pipeline.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

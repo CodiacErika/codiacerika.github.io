@@ -1,0 +1,32 @@
+{
+  "id": "guides/manage/recreate-cluster-guide",
+  "title": "Recreate a Cluster",
+  "description": "Learn how to recreate a Codiac cluster.",
+  "source": "@site/docs/guides/manage/recreate-cluster-guide.md",
+  "sourceDirName": "guides/manage",
+  "slug": "/guides/manage/recreate-cluster-guide",
+  "permalink": "/docs/guides/manage/recreate-cluster-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Recreate Cluster",
+    "id": "recreate-cluster-guide",
+    "title": "Recreate a Cluster",
+    "description": "Learn how to recreate a Codiac cluster.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "guides/manage/move-deployments-guide",
+  "title": "Move Deployments Between Cabinets",
+  "description": "A guide to moving deployments between cabinets.",
+  "source": "@site/docs/guides/manage/move-deployments-guide.md",
+  "sourceDirName": "guides/manage",
+  "slug": "/guides/manage/move-deployments-guide",
+  "permalink": "/docs/guides/manage/move-deployments-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Move Deployments",
+    "id": "move-deployments-guide",
+    "title": "Move Deployments Between Cabinets",
+    "description": "A guide to moving deployments between cabinets.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

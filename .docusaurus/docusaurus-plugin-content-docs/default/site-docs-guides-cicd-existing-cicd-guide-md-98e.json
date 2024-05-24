@@ -1,0 +1,32 @@
+{
+  "id": "guides/cicd/existing-cicd-guide",
+  "title": "Integrate Codiac With Your Existing CI/CD Pipeline",
+  "description": "A guide to integrate Codiac with your existing CI/CD pipeline.",
+  "source": "@site/docs/guides/cicd/existing-cicd-guide.md",
+  "sourceDirName": "guides/cicd",
+  "slug": "/guides/cicd/existing-cicd-guide",
+  "permalink": "/docs/guides/cicd/existing-cicd-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Existing CI/CD",
+    "id": "existing-cicd-guide",
+    "title": "Integrate Codiac With Your Existing CI/CD Pipeline",
+    "description": "A guide to integrate Codiac with your existing CI/CD pipeline.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

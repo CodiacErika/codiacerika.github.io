@@ -1,0 +1,32 @@
+{
+  "id": "guides/logging/datadog-guide",
+  "title": "Integrate Codiac With Datadog",
+  "description": "A guide to integrate Codiac with Datadog",
+  "source": "@site/docs/guides/logging/datadog-guide.md",
+  "sourceDirName": "guides/logging",
+  "slug": "/guides/logging/datadog-guide",
+  "permalink": "/docs/guides/logging/datadog-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Datadog",
+    "id": "datadog-guide",
+    "title": "Integrate Codiac With Datadog",
+    "description": "A guide to integrate Codiac with Datadog",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}

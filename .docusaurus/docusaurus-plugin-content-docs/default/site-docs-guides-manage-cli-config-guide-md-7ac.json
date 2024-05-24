@@ -1,0 +1,32 @@
+{
+  "id": "guides/manage/cli-config-guide",
+  "title": "Config With the CLI",
+  "description": "A guide to setting configurations with the Codiac CLI.",
+  "source": "@site/docs/guides/manage/cli-config-guide.md",
+  "sourceDirName": "guides/manage",
+  "slug": "/guides/manage/cli-config-guide",
+  "permalink": "/docs/guides/manage/cli-config-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "CLI Config",
+    "id": "cli-config-guide",
+    "title": "Config With the CLI",
+    "description": "A guide to setting configurations with the Codiac CLI.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  }
+}
