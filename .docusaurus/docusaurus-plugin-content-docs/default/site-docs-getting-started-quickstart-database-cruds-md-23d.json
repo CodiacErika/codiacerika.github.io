@@ -1,0 +1,44 @@
+{
+  "id": "getting-started/quickstart-database-cruds",
+  "title": "Quicker Quickstart - Database CRUDs",
+  "description": "A quickstart guide to database CRUDs.",
+  "source": "@site/docs/getting-started/quickstart-database-cruds.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/quickstart-database-cruds",
+  "permalink": "/scratch/getting-started/quickstart-database-cruds",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/quickstart-database-cruds.md",
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/scratch/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/scratch/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Quicker - Database CRUDs",
+    "slug": "quickstart-database-cruds",
+    "title": "Quicker Quickstart - Database CRUDs",
+    "description": "A quickstart guide to database CRUDs.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quick - Extend CRUD",
+    "permalink": "/scratch/getting-started/quickstart-extend-crud"
+  },
+  "next": {
+    "title": "Quickest - Custom Endpoint",
+    "permalink": "/scratch/getting-started/quickstart-custom-endpoint"
+  }
+}

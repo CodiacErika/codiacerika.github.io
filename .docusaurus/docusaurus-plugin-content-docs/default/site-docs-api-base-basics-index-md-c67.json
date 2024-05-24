@@ -1,0 +1,41 @@
+{
+  "id": "api-base/basics/index",
+  "title": "Basics of Codiac Architecture and Components",
+  "description": "Learn the basics of Codiac architecture and components.",
+  "source": "@site/docs/api-base/basics/index.md",
+  "sourceDirName": "api-base/basics",
+  "slug": "/api-base/basics/",
+  "permalink": "/scratch/api-base/basics/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-base/basics/index.md",
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/scratch/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/scratch/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Basics",
+    "title": "Basics of Codiac Architecture and Components",
+    "description": "Learn the basics of Codiac architecture and components.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API",
+    "permalink": "/scratch/api-base/"
+  },
+  "next": {
+    "title": "HATEOAS",
+    "permalink": "/scratch/api-base/basics/HATEOAS"
+  }
+}

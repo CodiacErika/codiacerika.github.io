@@ -1,0 +1,24 @@
+{
+  "id": "api-base/basics/repo-registry-pattern",
+  "title": "The Repo Registry Pattern",
+  "description": "TL;DR.",
+  "source": "@site/docs/api-base/basics/repo-registry-pattern.md",
+  "sourceDirName": "api-base/basics",
+  "slug": "/api-base/basics/repo-registry-pattern",
+  "permalink": "/scratch/api-base/basics/repo-registry-pattern",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-base/basics/repo-registry-pattern.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projections",
+    "permalink": "/scratch/api-base/basics/projections"
+  },
+  "next": {
+    "title": "Response Envelopes",
+    "permalink": "/scratch/api-base/basics/response-envelopes"
+  }
+}

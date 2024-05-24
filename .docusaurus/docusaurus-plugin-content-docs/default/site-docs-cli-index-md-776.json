@@ -1,0 +1,43 @@
+{
+  "id": "cli/index",
+  "title": "Codiac CLI",
+  "description": "Documentation on the Codiac CLI",
+  "source": "@site/docs/cli/index.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/",
+  "permalink": "/scratch/cli/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/cli/index.md",
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/scratch/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/scratch/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "CLI",
+    "sidebar_position": 5,
+    "title": "Codiac CLI",
+    "description": "Documentation on the Codiac CLI",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Codiac Validation API Plugin",
+    "permalink": "/scratch/api-base/plugins/validation-plugin"
+  },
+  "next": {
+    "title": "Codiac CLI",
+    "permalink": "/scratch/cli/command-reference"
+  }
+}

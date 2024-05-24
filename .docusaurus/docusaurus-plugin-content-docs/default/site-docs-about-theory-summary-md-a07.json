@@ -1,0 +1,41 @@
+{
+  "id": "about/theory-summary",
+  "title": "Theories of Smart defaults, Decoupling, Extensibility, and COTN (Code Only The Nuance)",
+  "description": "Learn more about the theories behind Codiac.",
+  "source": "@site/docs/about/theory-summary.md",
+  "sourceDirName": "about",
+  "slug": "/about/theory-summary",
+  "permalink": "/scratch/about/theory-summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/about/theory-summary.md",
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/scratch/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/scratch/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Theory",
+    "title": "Theories of Smart defaults, Decoupling, Extensibility, and COTN (Code Only The Nuance)",
+    "description": "Learn more about the theories behind Codiac.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Runtime Management",
+    "permalink": "/scratch/about/runtime-mgmt"
+  },
+  "next": {
+    "title": "Why Codiac?",
+    "permalink": "/scratch/about/why"
+  }
+}

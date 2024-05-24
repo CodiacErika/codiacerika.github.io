@@ -5,14 +5,14 @@
  */
 export default {
   "title": "Codiac Documentation",
-  "tagline": " ",
-  "url": "https://codiacerika.github.io",
-  "baseUrl": "/",
-  "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
+  "tagline": "Kubernetes Simplified",
   "favicon": "img/favicon.ico",
-  "organizationName": "CodiacErika",
-  "projectName": "codiacerika.github.io",
+  "url": "https://erikabarcott.github.io",
+  "baseUrl": "/scratch/",
+  "organizationName": "erikabarcott",
+  "projectName": "scratch",
+  "onBrokenLinks": "warn",
+  "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -26,60 +26,71 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/erikabarcott/Codiac/Repos/codiacerika.github.io/sidebars.js"
+          "routeBasePath": "/",
+          "sidebarPath": "./sidebars.js",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
-        "blog": {
-          "showReadingTime": true
-        },
+        "blog": false,
         "theme": {
-          "customCss": "/home/erikabarcott/Codiac/Repos/codiacerika.github.io/src/css/custom.css"
+          "customCss": "./src/css/custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
-    "colorMode": {
-      "defaultMode": "dark",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
-    },
+    "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Docs",
+      "title": "My Site",
       "logo": {
-        "alt": "Codiac Logo",
-        "src": "img/logo.png"
+        "alt": "My Site Logo",
+        "src": "img/logo.svg"
       },
       "items": [
         {
-          "type": "docsVersionDropdown",
+          "type": "docSidebar",
+          "sidebarId": "tutorialSidebar",
           "position": "left",
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": []
+          "label": "Docs"
+        },
+        {
+          "to": "/blog",
+          "label": "Blog",
+          "position": "left"
+        },
+        {
+          "href": "https://github.com/facebook/docusaurus",
+          "label": "GitHub",
+          "position": "right"
         }
       ],
       "hideOnScroll": false
     },
     "footer": {
+      "style": "dark",
       "links": [
         {
           "title": "Docs",
           "items": [
             {
               "label": "Tutorial",
-              "to": "/docs"
+              "to": "/docs/intro"
             }
           ]
         },
         {
-          "title": "Find Us",
+          "title": "Community",
           "items": [
             {
-              "label": "LinkedIn",
-              "href": "https://www.linkedin.com/company/codiac-cloud/"
+              "label": "Stack Overflow",
+              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
             },
             {
-              "label": "Website",
-              "href": "https://www.codiac.io/"
+              "label": "Discord",
+              "href": "https://discordapp.com/invite/docusaurus"
+            },
+            {
+              "label": "Twitter",
+              "href": "https://twitter.com/docusaurus"
             }
           ]
         },
@@ -88,19 +99,17 @@ export default {
           "items": [
             {
               "label": "Blog",
-              "to": "https://www.codiac.io/blogs"
+              "to": "/blog"
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/codiac-io/"
+              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2024 Codiac, Inc.",
-      "style": "light"
+      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
     },
-    "sidebar": {},
     "prism": {
       "theme": {
         "plain": {
@@ -304,6 +313,11 @@ export default {
           }
         }
       ]
+    },
+    "colorMode": {
+      "defaultMode": "light",
+      "disableSwitch": false,
+      "respectPrefersColorScheme": false
     },
     "docs": {
       "versionPersistence": "localStorage",

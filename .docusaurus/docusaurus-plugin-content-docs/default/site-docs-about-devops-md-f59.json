@@ -1,0 +1,41 @@
+{
+  "id": "about/devops",
+  "title": "DevOps Pipelines",
+  "description": "Learn more about DevOps Pipelines with Codiac.",
+  "source": "@site/docs/about/devops.md",
+  "sourceDirName": "about",
+  "slug": "/about/devops",
+  "permalink": "/scratch/about/devops",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/about/devops.md",
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/scratch/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/scratch/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "DevOps Pipelines",
+    "title": "DevOps Pipelines",
+    "description": "Learn more about DevOps Pipelines with Codiac.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Asset Development",
+    "permalink": "/scratch/about/asset-dev"
+  },
+  "next": {
+    "title": "Runtime Management",
+    "permalink": "/scratch/about/runtime-mgmt"
+  }
+}

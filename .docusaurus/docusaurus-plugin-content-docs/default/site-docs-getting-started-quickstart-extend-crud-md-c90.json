@@ -1,0 +1,44 @@
+{
+  "id": "getting-started/quickstart-extend-crud",
+  "title": "Quick Quickstart - Extend CRUD operations and custom data design",
+  "description": "A quickstart guide to extending CRUD operations in Codiac in under 45 minutes.",
+  "source": "@site/docs/getting-started/quickstart-extend-crud.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/quickstart-extend-crud",
+  "permalink": "/scratch/getting-started/quickstart-extend-crud",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/quickstart-extend-crud.md",
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/scratch/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/scratch/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Quick - Extend CRUD",
+    "slug": "quickstart-extend-crud",
+    "title": "Quick Quickstart - Extend CRUD operations and custom data design",
+    "description": "A quickstart guide to extending CRUD operations in Codiac in under 45 minutes.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup",
+    "permalink": "/scratch/getting-started/setup"
+  },
+  "next": {
+    "title": "Quicker - Database CRUDs",
+    "permalink": "/scratch/getting-started/quickstart-database-cruds"
+  }
+}

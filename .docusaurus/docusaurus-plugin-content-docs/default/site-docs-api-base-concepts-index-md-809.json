@@ -1,0 +1,41 @@
+{
+  "id": "api-base/concepts/index",
+  "title": "Codiac Concepts",
+  "description": "Learn the concepts behind Codiac.",
+  "source": "@site/docs/api-base/concepts/index.md",
+  "sourceDirName": "api-base/concepts",
+  "slug": "/api-base/concepts/",
+  "permalink": "/scratch/api-base/concepts/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-base/concepts/index.md",
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/scratch/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/scratch/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Concepts",
+    "title": "Codiac Concepts",
+    "description": "Learn the concepts behind Codiac.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using IOC (Inversion of Control) in your API",
+    "permalink": "/scratch/api-base/basics/using-ioc"
+  },
+  "next": {
+    "title": "Codiac API Plugins",
+    "permalink": "/scratch/api-base/plugins/"
+  }
+}

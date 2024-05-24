@@ -1,0 +1,41 @@
+{
+  "id": "about/runtime-mgmt",
+  "title": "Kubernetes Runtime Management",
+  "description": "Learn more about runtime management with Codiac.",
+  "source": "@site/docs/about/runtime-mgmt.md",
+  "sourceDirName": "about",
+  "slug": "/about/runtime-mgmt",
+  "permalink": "/scratch/about/runtime-mgmt",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/about/runtime-mgmt.md",
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/scratch/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/scratch/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Runtime Management",
+    "title": "Kubernetes Runtime Management",
+    "description": "Learn more about runtime management with Codiac.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DevOps Pipelines",
+    "permalink": "/scratch/about/devops"
+  },
+  "next": {
+    "title": "Theory",
+    "permalink": "/scratch/about/theory-summary"
+  }
+}

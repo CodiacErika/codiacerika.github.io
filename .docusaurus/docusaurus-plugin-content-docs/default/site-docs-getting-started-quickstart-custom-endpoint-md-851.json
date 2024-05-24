@@ -1,0 +1,44 @@
+{
+  "id": "getting-started/quickstart-custom-endpoint",
+  "title": "Quickest Quickstart - Build a Custom Endpoint",
+  "description": "A quickstart guide to building a custom endpoint in Codiac in under 10 minutes.",
+  "source": "@site/docs/getting-started/quickstart-custom-endpoint.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/quickstart-custom-endpoint",
+  "permalink": "/scratch/getting-started/quickstart-custom-endpoint",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/quickstart-custom-endpoint.md",
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/scratch/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/scratch/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Quickest - Custom Endpoint",
+    "slug": "quickstart-custom-endpoint",
+    "title": "Quickest Quickstart - Build a Custom Endpoint",
+    "description": "A quickstart guide to building a custom endpoint in Codiac in under 10 minutes.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quicker - Database CRUDs",
+    "permalink": "/scratch/getting-started/quickstart-database-cruds"
+  },
+  "next": {
+    "title": "API",
+    "permalink": "/scratch/api-base/"
+  }
+}

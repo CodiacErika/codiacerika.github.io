@@ -1,0 +1,24 @@
+{
+  "id": "api-base/basics/response-envelopes",
+  "title": "Response Envelopes",
+  "description": "",
+  "source": "@site/docs/api-base/basics/response-envelopes.md",
+  "sourceDirName": "api-base/basics",
+  "slug": "/api-base/basics/response-envelopes",
+  "permalink": "/scratch/api-base/basics/response-envelopes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-base/basics/response-envelopes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Repo Registry Pattern",
+    "permalink": "/scratch/api-base/basics/repo-registry-pattern"
+  },
+  "next": {
+    "title": "Searching and Criteria",
+    "permalink": "/scratch/api-base/basics/searching-and-criteria"
+  }
+}

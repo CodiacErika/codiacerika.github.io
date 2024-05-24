@@ -3,301 +3,249 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b3e'),
+    path: '/scratch/markdown-page',
+    component: ComponentCreator('/scratch/markdown-page', '6ba'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '245'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '4c4'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/codiac',
-    component: ComponentCreator('/blog/tags/codiac', '164'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/events',
-    component: ComponentCreator('/blog/tags/events', '73f'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '879'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'c7f'),
-    exact: true
-  },
-  {
-    path: '/helloMarkdown',
-    component: ComponentCreator('/helloMarkdown', '966'),
-    exact: true
-  },
-  {
-    path: '/helloReact',
-    component: ComponentCreator('/helloReact', '77a'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'ba6'),
+    path: '/scratch/',
+    component: ComponentCreator('/scratch/', '71c'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '29e'),
+        path: '/scratch/',
+        component: ComponentCreator('/scratch/', 'fc5'),
         routes: [
           {
-            path: '/docs/tags',
-            component: ComponentCreator('/docs/tags', 'fde'),
+            path: '/scratch/tags',
+            component: ComponentCreator('/scratch/tags', '80a'),
             exact: true
           },
           {
-            path: '/docs/tags/getting-started',
-            component: ComponentCreator('/docs/tags/getting-started', '1db'),
+            path: '/scratch/tags/api',
+            component: ComponentCreator('/scratch/tags/api', '262'),
             exact: true
           },
           {
-            path: '/docs/tags/intro',
-            component: ComponentCreator('/docs/tags/intro', '208'),
+            path: '/scratch/tags/getting-started',
+            component: ComponentCreator('/scratch/tags/getting-started', 'e10'),
             exact: true
           },
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '917'),
+            path: '/scratch/tags/intro',
+            component: ComponentCreator('/scratch/tags/intro', 'bd4'),
+            exact: true
+          },
+          {
+            path: '/scratch/',
+            component: ComponentCreator('/scratch/', '4ee'),
             routes: [
               {
-                path: '/docs/',
-                component: ComponentCreator('/docs/', '4a8'),
+                path: '/scratch/about/',
+                component: ComponentCreator('/scratch/about/', '5d7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concepts/advanced-concepts/blue-green-concepts',
-                component: ComponentCreator('/docs/concepts/advanced-concepts/blue-green-concepts', 'c3e'),
+                path: '/scratch/about/adhoc',
+                component: ComponentCreator('/scratch/about/adhoc', 'd24'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concepts/advanced-concepts/cicd-concepts',
-                component: ComponentCreator('/docs/concepts/advanced-concepts/cicd-concepts', 'aca'),
+                path: '/scratch/about/asset-dev',
+                component: ComponentCreator('/scratch/about/asset-dev', '99b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concepts/advanced-concepts/cluster-hopping-concepts',
-                component: ComponentCreator('/docs/concepts/advanced-concepts/cluster-hopping-concepts', '71b'),
+                path: '/scratch/about/devops',
+                component: ComponentCreator('/scratch/about/devops', '2b1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concepts/advanced-concepts/rbac-concepts',
-                component: ComponentCreator('/docs/concepts/advanced-concepts/rbac-concepts', '8a3'),
+                path: '/scratch/about/runtime-mgmt',
+                component: ComponentCreator('/scratch/about/runtime-mgmt', '947'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concepts/basic-concepts/assets-concepts',
-                component: ComponentCreator('/docs/concepts/basic-concepts/assets-concepts', '1c8'),
+                path: '/scratch/about/theory-summary',
+                component: ComponentCreator('/scratch/about/theory-summary', 'b15'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concepts/basic-concepts/cabinets-concepts',
-                component: ComponentCreator('/docs/concepts/basic-concepts/cabinets-concepts', '6c2'),
+                path: '/scratch/about/why',
+                component: ComponentCreator('/scratch/about/why', '199'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concepts/basic-concepts/clusters-concepts',
-                component: ComponentCreator('/docs/concepts/basic-concepts/clusters-concepts', '143'),
+                path: '/scratch/api-base/',
+                component: ComponentCreator('/scratch/api-base/', '8c6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concepts/basic-concepts/toolchain-reduction-concepts',
-                component: ComponentCreator('/docs/concepts/basic-concepts/toolchain-reduction-concepts', '8dc'),
+                path: '/scratch/api-base/basics/',
+                component: ComponentCreator('/scratch/api-base/basics/', '698'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/concepts/what-is-codiac',
-                component: ComponentCreator('/docs/concepts/what-is-codiac', 'c3d'),
+                path: '/scratch/api-base/basics/custom-endpoints',
+                component: ComponentCreator('/scratch/api-base/basics/custom-endpoints', '137'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/get-started/cicd-integration',
-                component: ComponentCreator('/docs/get-started/cicd-integration', '9dd'),
+                path: '/scratch/api-base/basics/custom-filter-defs',
+                component: ComponentCreator('/scratch/api-base/basics/custom-filter-defs', '6e7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/get-started/create-account',
-                component: ComponentCreator('/docs/get-started/create-account', '96b'),
+                path: '/scratch/api-base/basics/custom-validation',
+                component: ComponentCreator('/scratch/api-base/basics/custom-validation', '51c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/get-started/credentials',
-                component: ComponentCreator('/docs/get-started/credentials', '3b7'),
+                path: '/scratch/api-base/basics/HATEOAS',
+                component: ComponentCreator('/scratch/api-base/basics/HATEOAS', '9cc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/get-started/install-cli',
-                component: ComponentCreator('/docs/get-started/install-cli', '0d5'),
+                path: '/scratch/api-base/basics/patch-and-update',
+                component: ComponentCreator('/scratch/api-base/basics/patch-and-update', '8b1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/get-started/quickstart/deploy-10-microservices-quickstart',
-                component: ComponentCreator('/docs/get-started/quickstart/deploy-10-microservices-quickstart', '47a'),
+                path: '/scratch/api-base/basics/projections',
+                component: ComponentCreator('/scratch/api-base/basics/projections', 'c3c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/get-started/quickstart/hello-world-quickstart',
-                component: ComponentCreator('/docs/get-started/quickstart/hello-world-quickstart', 'dc1'),
+                path: '/scratch/api-base/basics/repo-registry-pattern',
+                component: ComponentCreator('/scratch/api-base/basics/repo-registry-pattern', 'add'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/cicd/existing-cicd-guide',
-                component: ComponentCreator('/docs/guides/cicd/existing-cicd-guide', 'c71'),
+                path: '/scratch/api-base/basics/response-envelopes',
+                component: ComponentCreator('/scratch/api-base/basics/response-envelopes', '49f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/cicd/github-guide',
-                component: ComponentCreator('/docs/guides/cicd/github-guide', '11a'),
+                path: '/scratch/api-base/basics/searching-and-criteria',
+                component: ComponentCreator('/scratch/api-base/basics/searching-and-criteria', '4ef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/cicd/gitlab-guide',
-                component: ComponentCreator('/docs/guides/cicd/gitlab-guide', '1d5'),
+                path: '/scratch/api-base/basics/StringFilter',
+                component: ComponentCreator('/scratch/api-base/basics/StringFilter', 'dcc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/logging/datadog-guide',
-                component: ComponentCreator('/docs/guides/logging/datadog-guide', '02e'),
+                path: '/scratch/api-base/basics/using-ioc',
+                component: ComponentCreator('/scratch/api-base/basics/using-ioc', '499'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/logging/elk-stack-guide',
-                component: ComponentCreator('/docs/guides/logging/elk-stack-guide', '953'),
+                path: '/scratch/api-base/concepts/',
+                component: ComponentCreator('/scratch/api-base/concepts/', 'ef8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/logging/existing-logging-guide',
-                component: ComponentCreator('/docs/guides/logging/existing-logging-guide', '348'),
+                path: '/scratch/api-base/plugins/',
+                component: ComponentCreator('/scratch/api-base/plugins/', '1a4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/manage/cli-config-guide',
-                component: ComponentCreator('/docs/guides/manage/cli-config-guide', 'dc0'),
+                path: '/scratch/api-base/plugins/mongodb-repo-plugin',
+                component: ComponentCreator('/scratch/api-base/plugins/mongodb-repo-plugin', '3fb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/manage/configuration-management-guide',
-                component: ComponentCreator('/docs/guides/manage/configuration-management-guide', 'f94'),
+                path: '/scratch/api-base/plugins/open-api-plugin',
+                component: ComponentCreator('/scratch/api-base/plugins/open-api-plugin', '1a3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/manage/move-deployments-guide',
-                component: ComponentCreator('/docs/guides/manage/move-deployments-guide', 'bff'),
+                path: '/scratch/api-base/plugins/sql-repo-plugin',
+                component: ComponentCreator('/scratch/api-base/plugins/sql-repo-plugin', '9e8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/manage/recreate-cluster-guide',
-                component: ComponentCreator('/docs/guides/manage/recreate-cluster-guide', 'b77'),
+                path: '/scratch/api-base/plugins/validation-plugin',
+                component: ComponentCreator('/scratch/api-base/plugins/validation-plugin', 'f2f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/manage/rotate-tokens-guide',
-                component: ComponentCreator('/docs/guides/manage/rotate-tokens-guide', 'aef'),
+                path: '/scratch/cli/',
+                component: ComponentCreator('/scratch/cli/', '214'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/manage/upgrade-cluster-version-guide',
-                component: ComponentCreator('/docs/guides/manage/upgrade-cluster-version-guide', '6b4'),
+                path: '/scratch/cli/command-reference',
+                component: ComponentCreator('/scratch/cli/command-reference', 'c1d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/security/cli-security-guide',
-                component: ComponentCreator('/docs/guides/security/cli-security-guide', '898'),
+                path: '/scratch/cli/tutorials/',
+                component: ComponentCreator('/scratch/cli/tutorials/', '1ca'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/telemetry/existing-telemetry-guide',
-                component: ComponentCreator('/docs/guides/telemetry/existing-telemetry-guide', 'e5f'),
+                path: '/scratch/getting-started/',
+                component: ComponentCreator('/scratch/getting-started/', '9f2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/telemetry/prometheus-guide',
-                component: ComponentCreator('/docs/guides/telemetry/prometheus-guide', 'cdb'),
+                path: '/scratch/getting-started/quickstart-custom-endpoint',
+                component: ComponentCreator('/scratch/getting-started/quickstart-custom-endpoint', '881'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/platform/autoscalers',
-                component: ComponentCreator('/docs/platform/autoscalers', '0fc'),
+                path: '/scratch/getting-started/quickstart-database-cruds',
+                component: ComponentCreator('/scratch/getting-started/quickstart-database-cruds', '91e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/platform/file-stores',
-                component: ComponentCreator('/docs/platform/file-stores', '8f7'),
+                path: '/scratch/getting-started/quickstart-extend-crud',
+                component: ComponentCreator('/scratch/getting-started/quickstart-extend-crud', '97d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/platform/geoproximity',
-                component: ComponentCreator('/docs/platform/geoproximity', 'bb5'),
+                path: '/scratch/getting-started/setup',
+                component: ComponentCreator('/scratch/getting-started/setup', '24e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/platform/probes',
-                component: ComponentCreator('/docs/platform/probes', '5fd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/reference/cli-commands',
-                component: ComponentCreator('/docs/reference/cli-commands', 'cfe'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/reference/glossary',
-                component: ComponentCreator('/docs/reference/glossary', '65f'),
+                path: '/scratch/',
+                component: ComponentCreator('/scratch/', 'bf2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -306,11 +254,6 @@ export default [
         ]
       }
     ]
-  },
-  {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
-    exact: true
   },
   {
     path: '*',

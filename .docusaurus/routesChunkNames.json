@@ -1,281 +1,178 @@
 {
-  "/blog-b3e": {
-    "__comp": "a6aa9e1f",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "24a50990"
-      }
-    ],
-    "__props": "53a3e6dc"
-  },
-  "/blog/archive-245": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "__props": "25003e4f"
-  },
-  "/blog/tags-4c4": {
-    "__comp": "01a85c17",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "41756ce8"
-  },
-  "/blog/tags/codiac-164": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "24a50990"
-      }
-    ],
-    "__props": "f11c8cde"
-  },
-  "/blog/tags/events-73f": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "24a50990"
-      }
-    ],
-    "__props": "c7341a67"
-  },
-  "/blog/tags/hello-879": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "24a50990"
-      }
-    ],
-    "__props": "9d2a5b67"
-  },
-  "/blog/welcome-c7f": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "d4f6087e"
-  },
-  "/helloMarkdown-966": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "a7456010"
-    },
-    "content": "3b693608"
-  },
-  "/helloReact-77a": {
-    "__comp": "06f8edbc",
-    "__context": {
-      "plugin": "a7456010"
-    },
-    "config": "5e9f5e1a"
-  },
-  "/markdown-page-3d7": {
+  "/scratch/markdown-page-6ba": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/docs-ba6": {
+  "/scratch/-71c": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-29e": {
+  "/scratch/-fc5": {
     "__comp": "a7bd4aaa",
-    "__props": "7c110bd0"
+    "__props": "faecde3e"
   },
-  "/docs/tags-fde": {
+  "/scratch/tags-80a": {
     "__comp": "3720c009",
-    "__props": "5bfee675"
+    "__props": "bb71fb10"
   },
-  "/docs/tags/getting-started-1db": {
+  "/scratch/tags/api-262": {
     "__comp": "df203c0f",
-    "__props": "067cd1c7"
+    "__props": "94dd6808"
   },
-  "/docs/tags/intro-208": {
+  "/scratch/tags/getting-started-e10": {
     "__comp": "df203c0f",
-    "__props": "8db5eb52"
+    "__props": "dbd8dec3"
   },
-  "/docs-917": {
+  "/scratch/tags/intro-bd4": {
+    "__comp": "df203c0f",
+    "__props": "9563657b"
+  },
+  "/scratch/-4ee": {
     "__comp": "a94703ab"
   },
-  "/docs/-4a8": {
+  "/scratch/about/-5d7": {
+    "__comp": "17896441",
+    "content": "1f60d0d4"
+  },
+  "/scratch/about/adhoc-d24": {
+    "__comp": "17896441",
+    "content": "2ff7f72f"
+  },
+  "/scratch/about/asset-dev-99b": {
+    "__comp": "17896441",
+    "content": "1b86a868"
+  },
+  "/scratch/about/devops-2b1": {
+    "__comp": "17896441",
+    "content": "f59b6ca6"
+  },
+  "/scratch/about/runtime-mgmt-947": {
+    "__comp": "17896441",
+    "content": "0e4f589b"
+  },
+  "/scratch/about/theory-summary-b15": {
+    "__comp": "17896441",
+    "content": "a07105be"
+  },
+  "/scratch/about/why-199": {
+    "__comp": "17896441",
+    "content": "095ca93b"
+  },
+  "/scratch/api-base/-8c6": {
+    "__comp": "17896441",
+    "content": "edda55c0"
+  },
+  "/scratch/api-base/basics/-698": {
+    "__comp": "17896441",
+    "content": "c6781aa4"
+  },
+  "/scratch/api-base/basics/custom-endpoints-137": {
+    "__comp": "17896441",
+    "content": "b11babc5"
+  },
+  "/scratch/api-base/basics/custom-filter-defs-6e7": {
+    "__comp": "17896441",
+    "content": "d8cf5b54"
+  },
+  "/scratch/api-base/basics/custom-validation-51c": {
+    "__comp": "17896441",
+    "content": "0b289abe"
+  },
+  "/scratch/api-base/basics/HATEOAS-9cc": {
+    "__comp": "17896441",
+    "content": "1b3a95a9"
+  },
+  "/scratch/api-base/basics/patch-and-update-8b1": {
+    "__comp": "17896441",
+    "content": "e18a0f36"
+  },
+  "/scratch/api-base/basics/projections-c3c": {
+    "__comp": "17896441",
+    "content": "31f0ea85"
+  },
+  "/scratch/api-base/basics/repo-registry-pattern-add": {
+    "__comp": "17896441",
+    "content": "10a1cb6b"
+  },
+  "/scratch/api-base/basics/response-envelopes-49f": {
+    "__comp": "17896441",
+    "content": "3c8d3171"
+  },
+  "/scratch/api-base/basics/searching-and-criteria-4ef": {
+    "__comp": "17896441",
+    "content": "1765f86f"
+  },
+  "/scratch/api-base/basics/StringFilter-dcc": {
+    "__comp": "17896441",
+    "content": "475f2cb2"
+  },
+  "/scratch/api-base/basics/using-ioc-499": {
+    "__comp": "17896441",
+    "content": "4cb7833a"
+  },
+  "/scratch/api-base/concepts/-ef8": {
+    "__comp": "17896441",
+    "content": "80948230"
+  },
+  "/scratch/api-base/plugins/-1a4": {
+    "__comp": "17896441",
+    "content": "f0c7165a"
+  },
+  "/scratch/api-base/plugins/mongodb-repo-plugin-3fb": {
+    "__comp": "17896441",
+    "content": "4fed3f01"
+  },
+  "/scratch/api-base/plugins/open-api-plugin-1a3": {
+    "__comp": "17896441",
+    "content": "9143ed98"
+  },
+  "/scratch/api-base/plugins/sql-repo-plugin-9e8": {
+    "__comp": "17896441",
+    "content": "5ac797c2"
+  },
+  "/scratch/api-base/plugins/validation-plugin-f2f": {
+    "__comp": "17896441",
+    "content": "0cef2965"
+  },
+  "/scratch/cli/-214": {
+    "__comp": "17896441",
+    "content": "7760e989"
+  },
+  "/scratch/cli/command-reference-c1d": {
+    "__comp": "17896441",
+    "content": "290dce23"
+  },
+  "/scratch/cli/tutorials/-1ca": {
+    "__comp": "17896441",
+    "content": "f0d9a735"
+  },
+  "/scratch/getting-started/-9f2": {
+    "__comp": "17896441",
+    "content": "54c82979"
+  },
+  "/scratch/getting-started/quickstart-custom-endpoint-881": {
+    "__comp": "17896441",
+    "content": "851131e0"
+  },
+  "/scratch/getting-started/quickstart-database-cruds-91e": {
+    "__comp": "17896441",
+    "content": "23d4e190"
+  },
+  "/scratch/getting-started/quickstart-extend-crud-97d": {
+    "__comp": "17896441",
+    "content": "c900f9f7"
+  },
+  "/scratch/getting-started/setup-24e": {
+    "__comp": "17896441",
+    "content": "530ea7a0"
+  },
+  "/scratch/-bf2": {
     "__comp": "17896441",
     "content": "c377a04b"
-  },
-  "/docs/concepts/advanced-concepts/blue-green-concepts-c3e": {
-    "__comp": "17896441",
-    "content": "bd1e60d3"
-  },
-  "/docs/concepts/advanced-concepts/cicd-concepts-aca": {
-    "__comp": "17896441",
-    "content": "8d250024"
-  },
-  "/docs/concepts/advanced-concepts/cluster-hopping-concepts-71b": {
-    "__comp": "17896441",
-    "content": "5f24105a"
-  },
-  "/docs/concepts/advanced-concepts/rbac-concepts-8a3": {
-    "__comp": "17896441",
-    "content": "f8473d0b"
-  },
-  "/docs/concepts/basic-concepts/assets-concepts-1c8": {
-    "__comp": "17896441",
-    "content": "72e60f85"
-  },
-  "/docs/concepts/basic-concepts/cabinets-concepts-6c2": {
-    "__comp": "17896441",
-    "content": "955a3268"
-  },
-  "/docs/concepts/basic-concepts/clusters-concepts-143": {
-    "__comp": "17896441",
-    "content": "30cf4af1"
-  },
-  "/docs/concepts/basic-concepts/toolchain-reduction-concepts-8dc": {
-    "__comp": "17896441",
-    "content": "62e23b7a"
-  },
-  "/docs/concepts/what-is-codiac-c3d": {
-    "__comp": "17896441",
-    "content": "f15b5ff3"
-  },
-  "/docs/get-started/cicd-integration-9dd": {
-    "__comp": "17896441",
-    "content": "4537d68c"
-  },
-  "/docs/get-started/create-account-96b": {
-    "__comp": "17896441",
-    "content": "629cc5af"
-  },
-  "/docs/get-started/credentials-3b7": {
-    "__comp": "17896441",
-    "content": "1582986a"
-  },
-  "/docs/get-started/install-cli-0d5": {
-    "__comp": "17896441",
-    "content": "be77772d"
-  },
-  "/docs/get-started/quickstart/deploy-10-microservices-quickstart-47a": {
-    "__comp": "17896441",
-    "content": "cec7ea8c"
-  },
-  "/docs/get-started/quickstart/hello-world-quickstart-dc1": {
-    "__comp": "17896441",
-    "content": "d83fae5e"
-  },
-  "/docs/guides/cicd/existing-cicd-guide-c71": {
-    "__comp": "17896441",
-    "content": "98e3674d"
-  },
-  "/docs/guides/cicd/github-guide-11a": {
-    "__comp": "17896441",
-    "content": "14229840"
-  },
-  "/docs/guides/cicd/gitlab-guide-1d5": {
-    "__comp": "17896441",
-    "content": "5187be3f"
-  },
-  "/docs/guides/logging/datadog-guide-02e": {
-    "__comp": "17896441",
-    "content": "3676818c"
-  },
-  "/docs/guides/logging/elk-stack-guide-953": {
-    "__comp": "17896441",
-    "content": "d747a35e"
-  },
-  "/docs/guides/logging/existing-logging-guide-348": {
-    "__comp": "17896441",
-    "content": "cb81898a"
-  },
-  "/docs/guides/manage/cli-config-guide-dc0": {
-    "__comp": "17896441",
-    "content": "7ac96bb9"
-  },
-  "/docs/guides/manage/configuration-management-guide-f94": {
-    "__comp": "17896441",
-    "content": "c0052b50"
-  },
-  "/docs/guides/manage/move-deployments-guide-bff": {
-    "__comp": "17896441",
-    "content": "aa6d6399"
-  },
-  "/docs/guides/manage/recreate-cluster-guide-b77": {
-    "__comp": "17896441",
-    "content": "a8007f75"
-  },
-  "/docs/guides/manage/rotate-tokens-guide-aef": {
-    "__comp": "17896441",
-    "content": "ab52b515"
-  },
-  "/docs/guides/manage/upgrade-cluster-version-guide-6b4": {
-    "__comp": "17896441",
-    "content": "5bebc38b"
-  },
-  "/docs/guides/security/cli-security-guide-898": {
-    "__comp": "17896441",
-    "content": "608b8ed2"
-  },
-  "/docs/guides/telemetry/existing-telemetry-guide-e5f": {
-    "__comp": "17896441",
-    "content": "70efbe88"
-  },
-  "/docs/guides/telemetry/prometheus-guide-cdb": {
-    "__comp": "17896441",
-    "content": "1edf95ba"
-  },
-  "/docs/platform/autoscalers-0fc": {
-    "__comp": "17896441",
-    "content": "1bfa4bf5"
-  },
-  "/docs/platform/file-stores-8f7": {
-    "__comp": "17896441",
-    "content": "de64cc4f"
-  },
-  "/docs/platform/geoproximity-bb5": {
-    "__comp": "17896441",
-    "content": "a2a13f42"
-  },
-  "/docs/platform/probes-5fd": {
-    "__comp": "17896441",
-    "content": "76fef6d4"
-  },
-  "/docs/reference/cli-commands-cfe": {
-    "__comp": "17896441",
-    "content": "e7c06225"
-  },
-  "/docs/reference/glossary-65f": {
-    "__comp": "17896441",
-    "content": "846656e5"
-  },
-  "/-2e1": {
-    "__comp": "c4f5d8e4",
-    "__context": {
-      "plugin": "a7456010"
-    },
-    "config": "5e9f5e1a"
   }
 }

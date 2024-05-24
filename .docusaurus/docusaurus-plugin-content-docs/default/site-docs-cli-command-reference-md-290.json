@@ -1,0 +1,24 @@
+{
+  "id": "cli/command-reference",
+  "title": "Codiac CLI",
+  "description": "Local interface for registering and maintaining Toyhauler assets and pipelines",
+  "source": "@site/docs/cli/command-reference.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/command-reference",
+  "permalink": "/scratch/cli/command-reference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/cli/command-reference.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CLI",
+    "permalink": "/scratch/cli/"
+  },
+  "next": {
+    "title": "CLI Tutorials",
+    "permalink": "/scratch/cli/tutorials/"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "about/asset-dev",
+  "title": "Asset Development",
+  "description": "Learn more about asset development with Codiac.",
+  "source": "@site/docs/about/asset-dev.md",
+  "sourceDirName": "about",
+  "slug": "/about/asset-dev",
+  "permalink": "/scratch/about/asset-dev",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/about/asset-dev.md",
+  "tags": [
+    {
+      "label": "Intro",
+      "permalink": "/scratch/tags/intro"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/scratch/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Asset Development",
+    "title": "Asset Development",
+    "description": "Learn more about asset development with Codiac.",
+    "tags": [
+      "Intro",
+      "Getting started"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ad Hoc Notes",
+    "permalink": "/scratch/about/adhoc"
+  },
+  "next": {
+    "title": "DevOps Pipelines",
+    "permalink": "/scratch/about/devops"
+  }
+}
