@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CLI Config",
+    "permalink": "/docs/guides/manage/cli-config-guide"
+  },
+  "next": {
+    "title": "Move Deployments",
+    "permalink": "/docs/guides/manage/move-deployments-guide"
   }
 }

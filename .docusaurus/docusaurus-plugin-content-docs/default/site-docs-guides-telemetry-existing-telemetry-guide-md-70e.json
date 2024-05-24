@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CLI",
+    "permalink": "/docs/guides/security/cli-security-guide"
+  },
+  "next": {
+    "title": "Prometheus",
+    "permalink": "/docs/guides/telemetry/prometheus-guide"
   }
 }

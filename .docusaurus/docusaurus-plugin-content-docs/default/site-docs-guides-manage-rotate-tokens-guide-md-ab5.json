@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recreate Cluster",
+    "permalink": "/docs/guides/manage/recreate-cluster-guide"
+  },
+  "next": {
+    "title": "Upgrade Cluster Version",
+    "permalink": "/docs/guides/manage/upgrade-cluster-version-guide"
   }
 }

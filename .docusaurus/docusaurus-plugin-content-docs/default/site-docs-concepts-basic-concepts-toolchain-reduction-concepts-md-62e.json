@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clusters",
+    "permalink": "/docs/concepts/basic-concepts/clusters-concepts"
+  },
+  "next": {
+    "title": "CI/CD Integration",
+    "permalink": "/docs/get-started/cicd-integration"
   }
 }

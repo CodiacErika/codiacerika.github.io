@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub",
+    "permalink": "/docs/guides/cicd/github-guide"
+  },
+  "next": {
+    "title": "Datadog",
+    "permalink": "/docs/guides/logging/datadog-guide"
   }
 }

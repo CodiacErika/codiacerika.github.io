@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CI/CD Integration",
+    "permalink": "/docs/get-started/cicd-integration"
+  },
+  "next": {
+    "title": "Credentials",
+    "permalink": "/docs/get-started/credentials"
   }
 }

@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Datadog",
+    "permalink": "/docs/guides/logging/datadog-guide"
+  },
+  "next": {
+    "title": "Existing Logging",
+    "permalink": "/docs/guides/logging/existing-logging-guide"
   }
 }

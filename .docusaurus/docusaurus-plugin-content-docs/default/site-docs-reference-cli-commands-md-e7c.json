@@ -29,10 +29,10 @@
       "Getting started"
     ]
   },
-  "sidebar": "docs",
+  "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction",
-    "permalink": "/docs/"
+    "title": "Probes",
+    "permalink": "/docs/platform/probes"
   },
   "next": {
     "title": "Glossary",

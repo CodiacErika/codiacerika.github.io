@@ -30,5 +30,10 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Blue/Green",
+    "permalink": "/docs/concepts/advanced-concepts/blue-green-concepts"
   }
 }

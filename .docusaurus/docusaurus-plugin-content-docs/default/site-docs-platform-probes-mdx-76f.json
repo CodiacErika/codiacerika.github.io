@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Geoproximity",
+    "permalink": "/docs/platform/geoproximity"
+  },
+  "next": {
+    "title": "CLI Commands",
+    "permalink": "/docs/reference/cli-commands"
   }
 }

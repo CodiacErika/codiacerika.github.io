@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Upgrade Cluster Version",
+    "permalink": "/docs/guides/manage/upgrade-cluster-version-guide"
+  },
+  "next": {
+    "title": "Existing Telemetry",
+    "permalink": "/docs/guides/telemetry/existing-telemetry-guide"
   }
 }

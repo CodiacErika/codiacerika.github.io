@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Assets",
+    "permalink": "/docs/concepts/basic-concepts/assets-concepts"
+  },
+  "next": {
+    "title": "Clusters",
+    "permalink": "/docs/concepts/basic-concepts/clusters-concepts"
   }
 }

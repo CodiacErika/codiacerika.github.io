@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Credentials",
+    "permalink": "/docs/get-started/credentials"
+  },
+  "next": {
+    "title": "Microservices Quickstart",
+    "permalink": "/docs/get-started/quickstart/deploy-10-microservices-quickstart"
   }
 }

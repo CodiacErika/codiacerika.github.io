@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microservices Quickstart",
+    "permalink": "/docs/get-started/quickstart/deploy-10-microservices-quickstart"
+  },
+  "next": {
+    "title": "Existing CI/CD",
+    "permalink": "/docs/guides/cicd/existing-cicd-guide"
   }
 }

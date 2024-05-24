@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cluster Hopping",
+    "permalink": "/docs/concepts/advanced-concepts/cluster-hopping-concepts"
+  },
+  "next": {
+    "title": "Assets",
+    "permalink": "/docs/concepts/basic-concepts/assets-concepts"
   }
 }

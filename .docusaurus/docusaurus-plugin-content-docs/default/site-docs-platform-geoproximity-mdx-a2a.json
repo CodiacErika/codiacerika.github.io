@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "File Stores",
+    "permalink": "/docs/platform/file-stores"
+  },
+  "next": {
+    "title": "Probes",
+    "permalink": "/docs/platform/probes"
   }
 }

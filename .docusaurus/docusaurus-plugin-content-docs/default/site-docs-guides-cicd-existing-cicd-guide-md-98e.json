@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hello World Quickstart",
+    "permalink": "/docs/get-started/quickstart/hello-world-quickstart"
+  },
+  "next": {
+    "title": "GitHub",
+    "permalink": "/docs/guides/cicd/github-guide"
   }
 }

@@ -12,162 +12,196 @@
           "docs": [
             {
               "id": "concepts/advanced-concepts/blue-green-concepts",
-              "path": "/docs/concepts/advanced-concepts/blue-green-concepts"
+              "path": "/docs/concepts/advanced-concepts/blue-green-concepts",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "concepts/advanced-concepts/cicd-concepts",
-              "path": "/docs/concepts/advanced-concepts/cicd-concepts"
+              "path": "/docs/concepts/advanced-concepts/cicd-concepts",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "concepts/advanced-concepts/cluster-hopping-concepts",
-              "path": "/docs/concepts/advanced-concepts/cluster-hopping-concepts"
+              "path": "/docs/concepts/advanced-concepts/cluster-hopping-concepts",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "concepts/advanced-concepts/rbac-concepts",
-              "path": "/docs/concepts/advanced-concepts/rbac-concepts"
+              "path": "/docs/concepts/advanced-concepts/rbac-concepts",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "concepts/basic-concepts/assets-concepts",
-              "path": "/docs/concepts/basic-concepts/assets-concepts"
+              "path": "/docs/concepts/basic-concepts/assets-concepts",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "concepts/basic-concepts/cabinets-concepts",
-              "path": "/docs/concepts/basic-concepts/cabinets-concepts"
+              "path": "/docs/concepts/basic-concepts/cabinets-concepts",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "concepts/basic-concepts/clusters-concepts",
-              "path": "/docs/concepts/basic-concepts/clusters-concepts"
+              "path": "/docs/concepts/basic-concepts/clusters-concepts",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "concepts/basic-concepts/toolchain-reduction-concepts",
-              "path": "/docs/concepts/basic-concepts/toolchain-reduction-concepts"
+              "path": "/docs/concepts/basic-concepts/toolchain-reduction-concepts",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "concepts/what-is-codiac",
-              "path": "/docs/concepts/what-is-codiac"
+              "path": "/docs/concepts/what-is-codiac",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/cicd-integration",
-              "path": "/docs/get-started/cicd-integration"
+              "path": "/docs/get-started/cicd-integration",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/create-account",
-              "path": "/docs/get-started/create-account"
+              "path": "/docs/get-started/create-account",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/credentials",
-              "path": "/docs/get-started/credentials"
+              "path": "/docs/get-started/credentials",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/install-cli",
-              "path": "/docs/get-started/install-cli"
+              "path": "/docs/get-started/install-cli",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/quickstart/deploy-10-microservices-quickstart",
-              "path": "/docs/get-started/quickstart/deploy-10-microservices-quickstart"
+              "path": "/docs/get-started/quickstart/deploy-10-microservices-quickstart",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "get-started/quickstart/hello-world-quickstart",
-              "path": "/docs/get-started/quickstart/hello-world-quickstart"
+              "path": "/docs/get-started/quickstart/hello-world-quickstart",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/cicd/existing-cicd-guide",
-              "path": "/docs/guides/cicd/existing-cicd-guide"
+              "path": "/docs/guides/cicd/existing-cicd-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/cicd/github-guide",
-              "path": "/docs/guides/cicd/github-guide"
+              "path": "/docs/guides/cicd/github-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/cicd/gitlab-guide",
-              "path": "/docs/guides/cicd/gitlab-guide"
+              "path": "/docs/guides/cicd/gitlab-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/logging/datadog-guide",
-              "path": "/docs/guides/logging/datadog-guide"
+              "path": "/docs/guides/logging/datadog-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/logging/elk-stack-guide",
-              "path": "/docs/guides/logging/elk-stack-guide"
+              "path": "/docs/guides/logging/elk-stack-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/logging/existing-logging-guide",
-              "path": "/docs/guides/logging/existing-logging-guide"
+              "path": "/docs/guides/logging/existing-logging-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/manage/cli-config-guide",
-              "path": "/docs/guides/manage/cli-config-guide"
+              "path": "/docs/guides/manage/cli-config-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/manage/configuration-management-guide",
-              "path": "/docs/guides/manage/configuration-management-guide"
+              "path": "/docs/guides/manage/configuration-management-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/manage/move-deployments-guide",
-              "path": "/docs/guides/manage/move-deployments-guide"
+              "path": "/docs/guides/manage/move-deployments-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/manage/recreate-cluster-guide",
-              "path": "/docs/guides/manage/recreate-cluster-guide"
+              "path": "/docs/guides/manage/recreate-cluster-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/manage/rotate-tokens-guide",
-              "path": "/docs/guides/manage/rotate-tokens-guide"
+              "path": "/docs/guides/manage/rotate-tokens-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/manage/upgrade-cluster-version-guide",
-              "path": "/docs/guides/manage/upgrade-cluster-version-guide"
+              "path": "/docs/guides/manage/upgrade-cluster-version-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/security/cli-security-guide",
-              "path": "/docs/guides/security/cli-security-guide"
+              "path": "/docs/guides/security/cli-security-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/telemetry/existing-telemetry-guide",
-              "path": "/docs/guides/telemetry/existing-telemetry-guide"
+              "path": "/docs/guides/telemetry/existing-telemetry-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/telemetry/prometheus-guide",
-              "path": "/docs/guides/telemetry/prometheus-guide"
+              "path": "/docs/guides/telemetry/prometheus-guide",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "introduction",
               "path": "/docs/",
-              "sidebar": "docs"
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "platform/autoscalers",
-              "path": "/docs/platform/autoscalers"
+              "path": "/docs/platform/autoscalers",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "platform/file-stores",
-              "path": "/docs/platform/file-stores"
+              "path": "/docs/platform/file-stores",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "platform/geoproximity",
-              "path": "/docs/platform/geoproximity"
+              "path": "/docs/platform/geoproximity",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "platform/probes",
-              "path": "/docs/platform/probes"
+              "path": "/docs/platform/probes",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "reference/cli-commands",
               "path": "/docs/reference/cli-commands",
-              "sidebar": "docs"
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "reference/glossary",
               "path": "/docs/reference/glossary",
-              "sidebar": "docs"
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "docs": {
+            "tutorialSidebar": {
               "link": {
-                "path": "/docs/",
-                "label": "introduction"
+                "path": "/docs/concepts/what-is-codiac",
+                "label": "What is Codiac?"
               }
             }
           }

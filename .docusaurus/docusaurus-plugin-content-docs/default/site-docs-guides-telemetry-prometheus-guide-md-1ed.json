@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Existing Telemetry",
+    "permalink": "/docs/guides/telemetry/existing-telemetry-guide"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/"
   }
 }

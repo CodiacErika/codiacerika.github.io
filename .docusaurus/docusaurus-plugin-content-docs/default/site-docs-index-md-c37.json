@@ -29,9 +29,13 @@
       "Getting started"
     ]
   },
-  "sidebar": "docs",
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prometheus",
+    "permalink": "/docs/guides/telemetry/prometheus-guide"
+  },
   "next": {
-    "title": "CLI Commands",
-    "permalink": "/docs/reference/cli-commands"
+    "title": "Autoscalers",
+    "permalink": "/docs/platform/autoscalers"
   }
 }

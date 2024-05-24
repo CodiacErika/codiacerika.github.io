@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CI/CD",
+    "permalink": "/docs/concepts/advanced-concepts/cicd-concepts"
+  },
+  "next": {
+    "title": "RBAC",
+    "permalink": "/docs/concepts/advanced-concepts/rbac-concepts"
   }
 }

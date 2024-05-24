@@ -29,7 +29,7 @@
       "Getting started"
     ]
   },
-  "sidebar": "docs",
+  "sidebar": "tutorialSidebar",
   "previous": {
     "title": "CLI Commands",
     "permalink": "/docs/reference/cli-commands"

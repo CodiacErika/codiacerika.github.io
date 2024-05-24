@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Blue/Green",
+    "permalink": "/docs/concepts/advanced-concepts/blue-green-concepts"
+  },
+  "next": {
+    "title": "Cluster Hopping",
+    "permalink": "/docs/concepts/advanced-concepts/cluster-hopping-concepts"
   }
 }

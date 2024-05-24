@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Toolchain Reduction",
+    "permalink": "/docs/concepts/basic-concepts/toolchain-reduction-concepts"
+  },
+  "next": {
+    "title": "Create Account",
+    "permalink": "/docs/get-started/create-account"
   }
 }

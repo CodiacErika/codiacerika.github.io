@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is Codiac?",
+    "permalink": "/docs/concepts/what-is-codiac"
+  },
+  "next": {
+    "title": "CI/CD",
+    "permalink": "/docs/concepts/advanced-concepts/cicd-concepts"
   }
 }

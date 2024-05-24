@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cabinets",
+    "permalink": "/docs/concepts/basic-concepts/cabinets-concepts"
+  },
+  "next": {
+    "title": "Toolchain Reduction",
+    "permalink": "/docs/concepts/basic-concepts/toolchain-reduction-concepts"
   }
 }

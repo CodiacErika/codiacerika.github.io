@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Autoscalers",
+    "permalink": "/docs/platform/autoscalers"
+  },
+  "next": {
+    "title": "Geoproximity",
+    "permalink": "/docs/platform/geoproximity"
   }
 }

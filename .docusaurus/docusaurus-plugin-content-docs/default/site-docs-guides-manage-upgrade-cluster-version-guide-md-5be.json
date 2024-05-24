@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rotate Tokens",
+    "permalink": "/docs/guides/manage/rotate-tokens-guide"
+  },
+  "next": {
+    "title": "CLI",
+    "permalink": "/docs/guides/security/cli-security-guide"
   }
 }

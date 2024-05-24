@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuration Management",
+    "permalink": "/docs/guides/manage/configuration-management-guide"
+  },
+  "next": {
+    "title": "Recreate Cluster",
+    "permalink": "/docs/guides/manage/recreate-cluster-guide"
   }
 }

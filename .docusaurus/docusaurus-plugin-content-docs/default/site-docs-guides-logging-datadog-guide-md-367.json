@@ -28,5 +28,14 @@
       "Intro",
       "Getting started"
     ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gitlab",
+    "permalink": "/docs/guides/cicd/gitlab-guide"
+  },
+  "next": {
+    "title": "ELK Stack",
+    "permalink": "/docs/guides/logging/elk-stack-guide"
   }
 }
