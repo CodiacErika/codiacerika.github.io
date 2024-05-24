@@ -7,7 +7,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Codiac Documentation',
   tagline: ' ',
-  url: 'https://codiac.io',
+  url: 'https://codiacerika.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
