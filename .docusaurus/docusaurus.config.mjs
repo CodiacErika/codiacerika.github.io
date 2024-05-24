@@ -6,13 +6,13 @@
 export default {
   "title": "Codiac Documentation",
   "tagline": " ",
-  "url": "https://codiac.io",
+  "url": "https://codiacerika.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "CodiacErika",
+  "projectName": "codiacerika.github.io",
   "i18n": {
     "defaultLocale": "en",
     "locales": [

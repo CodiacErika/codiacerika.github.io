@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Codiac Documentation Blog</title>
-        <link>https://codiac.io/blog</link>
+        <link>https://codiacerika.github.io/blog</link>
         <description>Codiac Documentation Blog</description>
         <lastBuildDate>Tue, 04 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://codiac.io/blog/welcome</link>
-            <guid>https://codiac.io/blog/welcome</guid>
+            <link>https://codiacerika.github.io/blog/welcome</link>
+            <guid>https://codiacerika.github.io/blog/welcome</guid>
             <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[We're having a great time at devopsdays in Houston this week!]]></description>
             <content:encoded><![CDATA[<p>We're having a great time at <a href="https://devopsdays.org/events/2022-houston/welcome/" target="_blank" rel="noopener noreferrer">devopsdays</a> in Houston this week!</p>

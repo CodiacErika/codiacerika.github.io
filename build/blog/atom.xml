@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://codiac.io/blog</id>
+    <id>https://codiacerika.github.io/blog</id>
     <title>Codiac Documentation Blog</title>
     <updated>2022-10-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://codiac.io/blog"/>
+    <link rel="alternate" href="https://codiacerika.github.io/blog"/>
     <subtitle>Codiac Documentation Blog</subtitle>
-    <icon>https://codiac.io/img/favicon.ico</icon>
+    <icon>https://codiacerika.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://codiac.io/blog/welcome</id>
-        <link href="https://codiac.io/blog/welcome"/>
+        <id>https://codiacerika.github.io/blog/welcome</id>
+        <link href="https://codiacerika.github.io/blog/welcome"/>
         <updated>2022-10-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We're having a great time at devopsdays in Houston this week!]]></summary>
         <content type="html"><![CDATA[<p>We're having a great time at <a href="https://devopsdays.org/events/2022-houston/welcome/" target="_blank" rel="noopener noreferrer">devopsdays</a> in Houston this week!</p>
